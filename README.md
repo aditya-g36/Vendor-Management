@@ -276,5 +276,6 @@ cd /path/to/Vendor_Management--master
 ```
 Run the test command:
 ```
-python manage.py test```
+python manage.py test
+```
 
